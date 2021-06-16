@@ -6,4 +6,4 @@ which raise suspicions by differing significantly from the majority of the data.
 
 Anomaly detection is any process that finds the outliers of a dataset; those items that don’t belong. 
 These anomalies might point to unusual network traffic, uncover a faulty sensor, or simply identify 
-data for cleaning, before analysis. - [bmc.com](https://www.bmc.com/blogs/machine-learning-anomaly-detection/)
+data for cleaning, before analysis. - [Anomaly Detection with Machine Learning](https://www.bmc.com/blogs/machine-learning-anomaly-detection/)
